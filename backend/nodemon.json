@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "db-user",
+    "DB_PASSWORD": "QAZwsx123",
+    "DB_NAME": "myFirstDatabase",
+    "TOKEN_KEY": "supersecret_dont_share"
+  }
+}
